@@ -1,15 +1,7 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600");
-/*
-	Industrious by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
-/* Basic */
-@-ms-viewport {
-  width: device-width; }
-body {
-  -ms-overflow-style: scrollbar; }
+
+<meta name="viewport" content="width=device-width, initial-scale=0.86, maximum-scale=3.0, minimum-scale=0.86">
 
 @media screen and (max-width: 480px) {
   html, body {
