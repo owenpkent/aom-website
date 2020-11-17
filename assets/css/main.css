@@ -809,8 +809,9 @@ table.alt tbody tr td {
 .highlights .content {
   background: #ffffff;
   box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.025); }
-*/
-/* Testimonials */
+  */
+
+/* Testimonials 
 .testimonials {
   margin: 2.5rem 0;
   width: 100%;
@@ -965,7 +966,7 @@ table.alt tbody tr td {
   box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.025); }
   .testimonials .content .credit strong {
     color: #ce1b28; }
-
+*/
 /* Actions */
 ul.actions {
   display: -moz-flex;
@@ -1797,7 +1798,7 @@ ul.icons {
 
 /* Wrapper */
 .wrapper {
-  padding: 8rem 0 6rem 0 ;
+  padding: 20px 50px;
   position: relative;
   z-index: 1; }
   @media screen and (max-width: 1280px) {
@@ -2216,7 +2217,8 @@ ul.icons {
       color: #ce1b28; }
   #cta .inner {
     position: relative;
-    z-index: 3; }
+    z-index: 3; 
+  }
   @media screen and (max-width: 980px) {
     #cta {
       background-attachment: scroll; } }
